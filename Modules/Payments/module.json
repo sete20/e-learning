@@ -1,0 +1,16 @@
+{
+    "name": "Payments",
+    "ar": "المدفوعات",
+    "alias": "payments",
+    "description": "Manage Payments make it easy to get payments form users and manage it",
+    "description_ar": "من خلال نظام ادارة المدفوعات يمكنك الحصول علي المدفوعات الالكترونية ومتابعتها بكل سهولة",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Payments\\Providers\\PaymentsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-credit-card"
+}

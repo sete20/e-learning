@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/accounting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/c-m-s" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/cms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/crm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/ecommerce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/hrms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/inventory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/marketing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/payment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/pos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/run" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/surveys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/themes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/o2microsys/vehicles" vcs="Git" />
+  </component>
+</project>

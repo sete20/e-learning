@@ -1,0 +1,16 @@
+{
+    "name": "Reports",
+    "ar": "التقارير",
+    "alias": "reports",
+    "description": "Get a lot of reports about every thing in the system",
+    "description_ar": "احصل علي تقارير بكل شيء يحدث داخل النظام الخاص بك",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Reports\\Providers\\ReportsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-chart"
+}

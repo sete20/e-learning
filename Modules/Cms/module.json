@@ -1,0 +1,16 @@
+{
+    "name": "CMS",
+    "ar": "إدارة المحتوي",
+    "alias": "cms",
+    "description": "CMS, Content Management System, make it easy to manage your content in pages and blog posts",
+    "description_ar": "من خلال نظام ادارة المحتوي يمكن بسهولة ادارة محتوي صفحات الويب والمدونات والمقالات الخاصة بك",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Cms\\Providers\\CmsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-notebook"
+}

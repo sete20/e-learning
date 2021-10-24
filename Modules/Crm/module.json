@@ -1,0 +1,15 @@
+{
+    "name": "CRM",
+    "ar": "إدارة موارد العملاء",
+    "description": "CRM, Customers Resources Management System make it easy to manage your customers contacts, resources",
+    "description_ar": "من خلال نظام ادارة موارد العملاء يمكن تنظيم العملاء وادارة حساباتك بسهولة",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Crm\\Providers\\CrmServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-people"
+}

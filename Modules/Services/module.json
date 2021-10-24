@@ -1,0 +1,16 @@
+{
+    "name": "Services",
+    "ar": "الخدمات",
+    "alias": "services",
+    "description": "Get a lot of services to use in yor app like SMS service, Email services, Google services ..etc",
+    "description_ar": "من خلال هذه الاضافة يمكنك الحصول علي عديد من الخدمات الجاهزة للربط من تطبيقك كخدمات الرسائل الهاتفية وخدمات البريد الالكتروني وخدمات جوجل وغيرها",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Services\\Providers\\ServicesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-briefcase"
+}

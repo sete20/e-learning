@@ -1,0 +1,16 @@
+{
+    "name": "Themes",
+    "ar": "الثيمات",
+    "alias": "themes",
+    "description": "Themes Management, make it easy to add your personality to your project by custom your app themes",
+    "description_ar": "من خلال ادارة الثيمات يمكنك اضافة الطابع الشخصي الخاص بك علي تطبيقك من خلال تخصيص الثيمات الخاصة بالتطبيق",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Themes\\Providers\\ThemesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-drop"
+}

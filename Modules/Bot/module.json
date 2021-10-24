@@ -1,0 +1,16 @@
+{
+    "name": "Bot",
+    "ar": "شات بوت",
+    "alias": "bot",
+    "description": "With chat bot you can make a lot of operation by just chatting with system",
+    "description_ar": "من خلال هذا البوت يمكنك القيام بالعديد من المهام داخل النظام من خلال نظام محادثة",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Bot\\Providers\\BotServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-speech"
+}

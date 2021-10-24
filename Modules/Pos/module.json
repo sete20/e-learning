@@ -1,0 +1,16 @@
+{
+    "name": "Pos",
+    "ar": "نقاط البيع",
+    "alias": "pos",
+    "description": "Point Of Sale system make it easy to sale your products in the store by barcode scan",
+    "description_ar": "من خلال نظام نقاط البيع يمكن بسهولة بيع المنتجات في المتاجر من خلال الباركود وتوفير الوقت",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Pos\\Providers\\PosServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-screen-desktop"
+}

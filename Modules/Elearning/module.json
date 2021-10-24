@@ -1,0 +1,17 @@
+{
+    "name": "Elearning",
+    "ar": "التعليم الالكتروني",
+    "alias": "elearning",
+    "description": "Manage your courses online easy by publish it online",
+    "description_ar": "يمكنك من خلال هذه الاضافة ادارة الدورات التعليمية ونشرها علي الانترنت",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Elearning\\Providers\\ElearningServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-badge"
+
+}

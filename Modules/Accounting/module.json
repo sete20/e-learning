@@ -1,0 +1,16 @@
+{
+    "name": "Accounting",
+    "ar": "الحسابات والقيود",
+    "alias": "accounting",
+    "description": "You can manage your accounting by add records and accounts and get reports about it",
+    "description_ar": "يمكنك ادارة الحسابات من خلال اضافة قيود اليومية واضافة الحسابات المختلفة والفوترة",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Accounting\\Providers\\AccountingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-calculator"
+}

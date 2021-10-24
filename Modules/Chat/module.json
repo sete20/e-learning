@@ -1,0 +1,16 @@
+{
+    "name": "Chat",
+    "ar": "المحادثات",
+    "alias": "chat",
+    "description": "Realtime chat make connection very easy, by making chat with others",
+    "description_ar": "من خلال نظام المحادثات في الوقت الحقيقي يمكن التواصل داخل النظام بسهولة",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Chat\\Providers\\ChatServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-bubbles"
+}

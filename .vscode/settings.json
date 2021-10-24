@@ -1,0 +1,30 @@
+{
+    "i18n-ally.localesPaths": [
+        "resources/lang",
+        "Modules/Accounting/Resources/lang",
+        "Modules/Apis/Resources/lang",
+        "Modules/Bot/Resources/lang",
+        "Modules/Chat/Resources/lang",
+        "Modules/Cms/Resources/lang",
+        "Modules/Core/Resources/lang",
+        "Modules/Crm/Resources/lang",
+        "Modules/Eacademy/Resources/lang",
+        "Modules/Ecommerce/Resources/lang",
+        "Modules/Elearning/Resources/lang",
+        "Modules/Help/Resources/lang",
+        "Modules/Hr/Resources/lang",
+        "Modules/Inventory/Resources/lang",
+        "Modules/Marketing/Resources/lang",
+        "Modules/Payments/Resources/lang",
+        "Modules/Pos/Resources/lang",
+        "Modules/Products/Resources/lang",
+        "Modules/Reports/Resources/lang",
+        "Modules/Run/Resources/lang",
+        "Modules/Services/Resources/lang",
+        "Modules/Social/Resources/lang",
+        "Modules/Themes/Resources/lang",
+        "Modules/Vehicles/Resources/lang",
+        "public/assets/plugins/bootstrap-datepicker/locales",
+        "public/assets/plugins/select2/js/i18n"
+    ]
+}

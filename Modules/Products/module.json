@@ -1,0 +1,16 @@
+{
+    "name": "Products",
+    "ar": "إدارة المنتجات",
+    "alias": "products",
+    "description": "Manage your products easy by add category and tags and brands to it and get reviews from customers",
+    "description_ar": "قم بادارة منتجاتك بسهولة من خلال تصنيفها واضافة الوسوم لها وتقسيمها علي العلامات التجارية واخيراً احصل علي تقييمات من العملاء",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Products\\Providers\\ProductsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-tag"
+}

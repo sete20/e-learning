@@ -1,0 +1,16 @@
+{
+    "name": "Inventory",
+    "ar": "إدارة المخزون",
+    "alias": "inventory",
+    "description": "Inventory, make easy to manage your products inventory and get reports about it",
+    "description_ar": "من خلال نظام إدارة المخزون يمكن بسهولة ادارة مخزون المنتجات والحصول علي تقارير عنها",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Inventory\\Providers\\InventoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-drawer"
+}

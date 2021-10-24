@@ -1,0 +1,16 @@
+{
+    "name": "Social",
+    "ar": "التواصل الاجتماعي",
+    "alias": "social",
+    "description": "Manage your social media accounts easy by this package",
+    "description_ar": "من خلال هذه الاضافة يمكن بكل سهولة ادارة حساباتك علي موقع التواصل الاجتماعي",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Social\\Providers\\SocialServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-share"
+}

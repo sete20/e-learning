@@ -1,0 +1,16 @@
+{
+    "name": "Vehicles",
+    "ar": "إدارة المركبات",
+    "alias": "vehicles",
+    "description": "Manage Vehicles, by get reports about it and it's map",
+    "description_ar": "ادارة المركبات عن طريق الحصول علي تقرير يومي بالتحركات",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Vehicles\\Providers\\VehiclesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-map"
+}

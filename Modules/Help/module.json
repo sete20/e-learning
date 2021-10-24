@@ -1,0 +1,16 @@
+{
+    "name": "Help",
+    "ar": "مركز المساعدة",
+    "alias": "help",
+    "description": "Help Center make it easy to know every thing about the system",
+    "description_ar": "من خلال مركز المساعدة يمكن الحصول علي المساعدة ومعرفة كل ما تحتاج اليه داخل النظام",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Help\\Providers\\HelpServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-support"
+}

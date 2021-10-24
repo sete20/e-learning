@@ -1,0 +1,16 @@
+{
+    "name": "Apis",
+    "ar": "ربط الخدمات",
+    "alias": "apis",
+    "description": "By this package you can add new api connection and generate APIs Key, control API system",
+    "description_ar": "يمكن ادارة ربط الخدمات عن طريق APIs واصدار مفتاح APIs جديد لربط تطبيقك مع التطبيقات الاخري",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Apis\\Providers\\ApisServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-organization"
+}

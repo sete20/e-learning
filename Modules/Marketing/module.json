@@ -1,0 +1,16 @@
+{
+    "name": "Marketing",
+    "ar": "التسويق",
+    "alias": "marketing",
+    "description": "Marketing tools to make it easy to publish your products, services, ..etc to every one",
+    "description_ar": "مجموعة من الادوات التسويقية التي تجعل من تسويق منتجك للعملاء امر في غاية السهولة",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Marketing\\Providers\\MarketingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-target"
+}

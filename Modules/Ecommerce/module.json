@@ -1,0 +1,16 @@
+{
+    "name": "Ecommerce",
+    "ar": "المتجر الالكتروني",
+    "alias": "ecommerce",
+    "description": "Ecommerce system with friendly user interface and cart functions",
+    "description_ar": "نظام ادارة المتاجر الالكترونية لادارة المتاجر بسهولة من خلال وجهة سهلة الاستخدام وعربة الكترونية",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Ecommerce\\Providers\\EcommerceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-basket"
+}

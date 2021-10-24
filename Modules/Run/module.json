@@ -1,0 +1,16 @@
+{
+    "name": "Run",
+    "ar": "التشغيل",
+    "alias": "run",
+    "description": "Manage manufacturing of products or services easy",
+    "description_ar": "نظام ادارة التشغيل للمصانع والخدمات يمكن من خلاله ادارة اوامر التشغيل والمواد الخام",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Run\\Providers\\RunServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-shuffle"
+}

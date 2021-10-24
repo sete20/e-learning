@@ -1,0 +1,16 @@
+{
+    "name": "Core",
+    "ar": "النظام الاساسي",
+    "alias": "core",
+    "description": "This package is a core tools for framework",
+    "description_ar": "اضافة خاصة بالنظام الاساسي توفر مجموعة من ادوات النظام",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Core\\Providers\\CoreServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-directions"
+}

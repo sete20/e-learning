@@ -1,0 +1,16 @@
+{
+    "name": "EAcademy",
+    "ar": "الاكاديميات الالكترونية",
+    "alias": "eacademy",
+    "description": "Add a power of e-academy to your app and manage your courses & teachers and students",
+    "description_ar": "من خلال هذه الاضافة يمكن اضافة القوة التي تحتاجها لإدارة اكاديمية الكترونياً",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Eacademy\\Providers\\EacademyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-graduation"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "HR",
+    "ar": "إدارة الموارد البشرية",
+    "alias": "hr",
+    "description": "Human Resources Management System, make your hr management easy by get money rolls or employee",
+    "description_ar": "من خلال نظام ادارة الموارد البشرية يمكن بسهولة ادارة الموظفين وادارة الطلبات الخاصة بهم والحصول علي رواتبهم في اخر كل مدة",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Hr\\Providers\\HrServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "icon": "icon-wrench"
+}
